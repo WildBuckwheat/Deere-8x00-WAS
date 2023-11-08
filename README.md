@@ -37,7 +37,7 @@ These are the parts required. Some of the parts are expanded on below.
 
 
 # Knuckle Plate
-The knuckle plate mounts under the fender bracket using the existing M12x35 fender bracket bolts. The plate features a clearance hole for the kingpin grease nipple and several holes for mounting the sensor tie rod. The design intent was to use the 3rd hole from the center of the tractor, but there are other holes in case you need them.
+The knuckle plate mounts under the fender bracket using the existing M12x35 fender bracket bolts. The plate features a clearance hole for the kingpin grease nipple and several holes for mounting the sensor tie rod. One of the middle holes should work, but there are other holes in case you need them.
 
 I had my plates plasma cut by a local fab shop from 1/4" steel plate. You can use the .dxf file to have your own plates plasma cut or laser cut. Alternatively, you can print the .pdf files at a 1:1 scale and use them as a paper template to fabricate a plate with hand tools. The template will not fit on one sheet of letter size paper. Double check the dimensions once printed to ensure that the printing is at 1:1 scale.
 
@@ -55,11 +55,12 @@ The Delphi ER100XX sensor is a spring loaded ride height sensor used by many dif
 The plug for this sensor is a 3 pin Aptiv Metripack 150. You may find a pigtail at your local auto parts suppliers or online by searching for GM 12085538, GM 88862227, ACDelco PT148, ACDelco PT2308, Car-Pak, 96-7571, Pico 5606PT, SMP S577, or by searching for a GM Camshaft sensor pigtail.
 
 <img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/DelphiAmazon.JPG" width="820">
+<img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/DelphiSensor.JPG" width="820">
+<img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/DelphiSensorDisassembled.JPG" width="820">
 <img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/DelphiDimensions.JPG" width="820">
 <img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/DelphiPigtailGM12085538.JPG" width="820">
 <img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/DelphiPlug.JPG" width="820">
-<img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/DelphiSensorArm.JPG" width="820">
-<img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/DelphiSensorDisassembled.JPG" width="820">
+
 
 
 # 3d printed parts
@@ -87,12 +88,12 @@ The important thing about this sensor tie rod is that it measures 145.5 mm cente
 
 
 # Linkage bolt
-I used a 5/16 x 1-1/2" bolt. I tapped the end of the bolt to M3. You could also use an M8x40mm bolt. You could tap to 4-40 instead of M3. 
+I used a 5/16 x 1-1/2" bolt. I drilled and tapped the end of the bolt to M3. You could also use an M8x40mm bolt. You could tap to 4-40 instead of M3. 
 
 
 
 # Axle Retaining Screw
-Here is the torque spec for the axle retaining screws in case you require them. Do not overtighten the screws or the inner sleeve may be damaged. I recommend leaving the screws alone.
+Here is the torque spec for the axle retaining screws in case you require them. Do not overtighten the screws or the inner sleeve may be damaged. I recommend that you leave the screws alone.
 
-<img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/AxleRetainingScrewCrossSectional.JPG" width="820">
 <img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/AxleRetainingScrewTorque.JPG" width="820">
+<img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/AxleRetainingScrewCrossSectional.JPG" width="820">
