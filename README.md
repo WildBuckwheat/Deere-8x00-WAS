@@ -5,6 +5,7 @@ A wheel angle sensor (WAS) assembly using the Delphi ER100XX sensor for John Dee
 <img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/Assembled1.JPG" width="820">
 <img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/Assembled2.JPG" width="820">
 <img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/Assembled3.JPG" width="820">
+<img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/Assembled4.JPG" width="820">
 <img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/AssembledLeftLock.JPG" width="820">
 <img src="https://github.com/WildBuckwheat/Deere-8x00-WAS/blob/main/Images/AssembledRightLock.JPG" width="820">
 
